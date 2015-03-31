@@ -1,175 +1,77 @@
-{
-    "version": "1.0",
-    "reports": [
-        {
-            "name": "Tremont 14S Report",
-            "title": "Tremont 14S Report",
-            "cohorts": [],
-            "segmentations": [],
-            "elements": {
-                "fldimp": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "undrfld": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "advknow": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "pubpol": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "comimp": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "undrwr": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "undrsoc": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "orgimp": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                },
-                "impsust": {
-                    "type": "percentileChart",
-                    "absolutes": [
-                        4.8,
-                        5.192982456140351,
-                        5.346733668341709,
-                        5.4523809523809526,
-                        5.870967741935483
-                    ],
-                    "current": {
-                        "name": "2014",
-                        "value": 5.3467336683417086,
-                        "percentage": 50.0
-                    },
-                    "cohorts": [],
-                    "past_results": [],
-                    "segmentations": []
-                }
-            }
-        }
-    ]
-}
+{'reports': [{'cohorts': [],
+              'elements': {'advknow': {'absolutes': '[3.7272727273,4.6666666667,5.164021164,5.3018867925,5.6202090592]',
+                                       'cohorts': [],
+                                       'current': {'name': '2014',
+                                                   'percentage': 50.0,
+                                                   'value': 5.1640211640211637},
+                                       'past_results': [],
+                                       'segmentations': [],
+                                       'type': 'percentileChart'},
+                           'comimp': {'absolutes': '[4.7705627706,5.7307692308,5.7875647668,6.2045454545,6.5151515152]',
+                                      'cohorts': [],
+                                      'current': {'name': '2014',
+                                                  'percentage': 38.888888888888886,
+                                                  'value': 5.7445652173913047},
+                                      'past_results': [],
+                                      'segmentations': [],
+                                      'type': 'percentileChart'},
+                           'fldimp': {'absolutes': '[5.0,5.758974359,5.7894736842,5.8506493506,6.0727272727]',
+                                      'cohorts': [],
+                                      'current': {'name': '2014',
+                                                  'percentage': 50.0,
+                                                  'value': 5.7894736842105274},
+                                      'past_results': [],
+                                      'segmentations': [],
+                                      'type': 'percentileChart'},
+                           'impsust': {'absolutes': '[4.8,5.1929824561,5.3467336683,5.4523809524,5.8709677419]',
+                                       'cohorts': [],
+                                       'current': {'name': '2014',
+                                                   'percentage': 50.0,
+                                                   'value': 5.3467336683417086},
+                                       'past_results': [],
+                                       'segmentations': [],
+                                       'type': 'percentileChart'},
+                           'orgimp': {'absolutes': '[5.7333333333,5.9428571429,6.1315789474,6.1764705882,6.2727272727]',
+                                      'cohorts': [],
+                                      'current': {'name': '2014',
+                                                  'percentage': 83.333333333333329,
+                                                  'value': 6.253393665158371},
+                                      'past_results': [],
+                                      'segmentations': [],
+                                      'type': 'percentileChart'},
+                           'pubpol': {'absolutes': '[3.3947368421,4.2916666667,4.6827586207,4.95,5.2222222222]',
+                                      'cohorts': [],
+                                      'current': {'name': '2014',
+                                                  'percentage': 61.111111111111114,
+                                                  'value': 4.875},
+                                      'past_results': [],
+                                      'segmentations': [],
+                                      'type': 'percentileChart'},
+                           'undrfld': {'absolutes': '[4.568627451,5.5161290323,5.696969697,5.7392739274,6.1851851852]',
+                                       'cohorts': [],
+                                       'current': {'name': '2014',
+                                                   'percentage': 61.111111111111114,
+                                                   'value': 5.7190476190476192},
+                                       'past_results': [],
+                                       'segmentations': [],
+                                       'type': 'percentileChart'},
+                           'undrsoc': {'absolutes': '[4.9423076923,5.6842105263,5.82,5.9285714286,6.1818181818]',
+                                       'cohorts': [],
+                                       'current': {'name': '2014',
+                                                   'percentage': 61.111111111111114,
+                                                   'value': 5.8894009216589858},
+                                       'past_results': [],
+                                       'segmentations': [],
+                                       'type': 'percentileChart'},
+                           'undrwr': {'absolutes': '[5.1703056769,5.6956521739,5.7823834197,6.0,6.5806451613]',
+                                      'cohorts': [],
+                                      'current': {'name': '2014',
+                                                  'percentage': 27.777777777777771,
+                                                  'value': 5.6956521739130439},
+                                      'past_results': [],
+                                      'segmentations': [],
+                                      'type': 'percentileChart'}},
+              'name': 'Tremont 14S Report',
+              'segmentations': [],
+              'title': 'Tremont 14S Report'}],
+ 'version': '1.0'}
